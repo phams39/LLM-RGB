@@ -1,6 +1,6 @@
 {
   "name": "llm-rgb",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "LLM Reasoning and Generation Benchmark. Evaluate LLMs in complex scenarios systematically.",
   "main": "src/index.ts",
   "scripts": {
